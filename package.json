@@ -1,0 +1,68 @@
+{
+  "name": "ruang",
+  "version": "0.2.0",
+  "description": "Ruang: a 3D virtual office and read-only mission control for your Hermes Agent and OpenCode crew",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugienugraha/ruang.git"
+  },
+  "homepage": "https://github.com/yugienugraha/ruang#readme",
+  "bin": {
+    "ruang": "bin/ruang.js"
+  },
+  "files": [
+    "bin",
+    "build/server",
+    "dist"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "concurrently -k \"npm:dev:server\" \"npm:dev:client\"",
+    "dev:client": "vite",
+    "dev:server": "tsx watch server/index.ts",
+    "build": "tsc -b && vite build && tsc -p tsconfig.server.build.json",
+    "start": "node bin/ruang.js",
+    "lint": "eslint .",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "@react-three/fiber": "^9.8.1",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.6.0",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@types/three": "^0.186.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "concurrently": "^9.2.1",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "jsdom": "^30.1.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "three": "^0.186.1",
+    "tsx": "^4.20.5",
+    "typescript": "~5.9.2",
+    "typescript-eslint": "^8.44.1",
+    "vite": "^7.1.7",
+    "vitest": "^3.2.4"
+  },
+  "keywords": [
+    "hermes-agent",
+    "opencode",
+    "mission-control",
+    "3d-office",
+    "virtual-office",
+    "dashboard",
+    "ai-agents"
+  ]
+}

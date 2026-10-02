@@ -1,0 +1,150 @@
+2026-10-02T16:26:44: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:44: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:44: ^
+2026-10-02T16:26:44: 
+2026-10-02T16:26:44: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:44:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:44:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:44:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:44:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:44:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:44:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:44:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:44:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:44: 
+2026-10-02T16:26:44: Node.js v26.7.0
+2026-10-02T16:26:44: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:44: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:44: ^
+2026-10-02T16:26:44: 
+2026-10-02T16:26:44: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:44:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:44:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:44:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:44:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:44:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:44:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:44:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:44:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:44: 
+2026-10-02T16:26:44: Node.js v26.7.0
+2026-10-02T16:26:45: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:45: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:45: ^
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:45:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:45:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:45:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:45:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:45:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:45:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:45:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:45:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: Node.js v26.7.0
+2026-10-02T16:26:45: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:45: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:45: ^
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:45:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:45:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:45:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:45:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:45:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:45:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:45:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:45:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: Node.js v26.7.0
+2026-10-02T16:26:45: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:45: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:45: ^
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:45:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:45:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:45:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:45:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:45:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:45:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:45:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:45:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: Node.js v26.7.0
+2026-10-02T16:26:45: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:45: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:45: ^
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:45:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:45:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:45:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:45:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:45:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:45:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:45:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:45:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: Node.js v26.7.0
+2026-10-02T16:26:45: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:45: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:45: ^
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:45:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:45:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:45:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:45:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:45:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:45:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:45:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:45:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:45: 
+2026-10-02T16:26:45: Node.js v26.7.0
+2026-10-02T16:26:46: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:46: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:46: ^
+2026-10-02T16:26:46: 
+2026-10-02T16:26:46: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:46:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:46:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:46:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:46:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:46:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:46:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:46:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:46:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:46: 
+2026-10-02T16:26:46: Node.js v26.7.0
+2026-10-02T16:26:46: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:46: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:46: ^
+2026-10-02T16:26:46: 
+2026-10-02T16:26:46: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:46:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:46:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:46:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:46:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:46:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:46:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:46:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:46:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:46: 
+2026-10-02T16:26:46: Node.js v26.7.0
+2026-10-02T16:26:46: C:\USERS\ASUS\APPDATA\LOCAL\HERMES\TOOLS\NODE-26.7.0-WIN32-X64\NPM.CMD:1
+2026-10-02T16:26:46: :: Created by npm, please don't edit manually.
+2026-10-02T16:26:46: ^
+2026-10-02T16:26:46: 
+2026-10-02T16:26:46: SyntaxError: Unexpected token ':'
+2026-10-02T16:26:46:     at wrapSafe (node:internal/modules/cjs/loader:1866:18)
+2026-10-02T16:26:46:     at Module._compile (node:internal/modules/cjs/loader:1908:20)
+2026-10-02T16:26:46:     at Object..js (node:internal/modules/cjs/loader:2074:10)
+2026-10-02T16:26:46:     at Module.load (node:internal/modules/cjs/loader:1656:32)
+2026-10-02T16:26:46:     at Module._load (node:internal/modules/cjs/loader:1448:12)
+2026-10-02T16:26:46:     at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)
+2026-10-02T16:26:46:     at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+2026-10-02T16:26:46:     at node:internal/main/run_main_module:33:47
+2026-10-02T16:26:46: 
+2026-10-02T16:26:46: Node.js v26.7.0
